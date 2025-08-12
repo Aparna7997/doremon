@@ -1,0 +1,26 @@
+ h{
+    color: blue;
+}
+p{
+    color: green;
+    background-color:black;
+}
+p:hover{    
+    /* hover is a term which means it shows the color which set while we move cursor over them */
+    color: red;
+    background-color: yellow;
+}
+body{
+    background-color:aqua
+}
+header:hover{
+    color:chartreuse;
+    background-color: darkblue;
+}
+footer{
+    color: white;
+    background-color: black;
+}
+  
+
+    
